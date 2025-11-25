@@ -26,6 +26,13 @@
 
 ---
 
+## 📸 Скриншот
+
+### Карточка проекта  
+![project]([https://via.placeholder.com/800x400?text=Project+Info](https://github.com/user-attachments/assets/7c528a11-a419-490c-a6d9-3c40f09e6518))
+
+---
+
 ## 📂 Структура проекта
 
 project/
