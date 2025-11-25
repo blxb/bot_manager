@@ -17,16 +17,6 @@
 
 ---
 
-## 📸 Скриншоты  
-
-### Главное меню  
-![menu](https://via.placeholder.com/800x400?text=Bot+Menu)
-
-### Карточка проекта  
-![project](https://via.placeholder.com/800x400?text=Project+Info)
-
----
-
 ## 🛠 Стек технологий  
 
 - Python 🐍  
