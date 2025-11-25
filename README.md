@@ -21,7 +21,8 @@
 
 - Python 🐍  
 - PyTelegramBotAPI  
-- SQLite  
+- SQLite
+
 - Собственная логика и структура проекта  
 
 ---
@@ -29,7 +30,7 @@
 ## 📸 Скриншот
 
 ### Карточка проекта  
-![project]([https://github.com/user-attachments/assets/7c528a11-a419-490c-a6d9-3c40f09e6518])
+<img width="626" height="941" alt="gadfgadfghdfghfhdfhge" src="https://github.com/user-attachments/assets/2e865315-8bcc-4993-8950-15057f95aebf" />
 
 ---
 
