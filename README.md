@@ -45,9 +45,6 @@ project/
 │── README.md
 └── database.db
 
-yaml
-Copy code
-
 ---
 
 ## 🚀 Как запустить проект?
